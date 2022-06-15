@@ -2,11 +2,11 @@
 // source: user/user_info.proto
 
 /*
-Package api_protocol is a reverse proxy.
+Package myprotocol is a reverse proxy.
 
 It translates gRPC into RESTful JSON APIs.
 */
-package api_protocol
+package myprotocol
 
 import (
 	"context"

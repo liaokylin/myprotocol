@@ -4,7 +4,7 @@
 // - protoc             (unknown)
 // source: user/user_info.proto
 
-package api_protocol
+package myprotocol
 
 import (
 	context "context"
